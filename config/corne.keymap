@@ -61,7 +61,8 @@
             // | CTRL |  A  |  S  |  D  |  F  |  G  |   |  H  |  J   |  K  |  L  |  ;  |  '   |
             // | SHFT |  Z  |  X  |  C  |  V  |  B  |   |  N  |  M   |  ,  |  .  |  /  | ESC  |
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
-
+            
+            display-name = "ABC";
             bindings = <
 &trans  &kp SQT   &kp COMMA  &kp DOT     &kp P      &kp Y       &kp F  &kp G  &kp C      &kp R  &kp L  &trans
 &trans  &kp A     &kp O      &kp E       &kp U      &kp I       &kp D  &kp H  &kp T      &kp N  &kp S  &trans
@@ -76,7 +77,8 @@
             // | BTCLR| BT1 | BT2 | BT3 | BT4 | BT5 |   | LFT | DWN |  UP | RGT |     |      |
             // | SHFT |     |     |     |     |     |   |     |     |     |     |     |      |
             //                    | GUI |     | SPC |   | ENT |     | ALT |
-
+            
+            display-name = "NUM";
             bindings = <
 &trans  &kp EXCLAMATION  &kp AT_SIGN     &kp POUND        &kp DOLLAR            &kp PERCENT              &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp BSLH   &kp BACKSPACE  &trans
 &trans  &kp CARET        &kp AMPERSAND   &kp ASTERISK     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS    &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp FSLH   &kp EQUAL      &trans
@@ -91,7 +93,8 @@
             // | CTRL |     |     |     |     |     |   |  -  |  =  |  [  |  ]  |  \  |  `   |
             // | SHFT |     |     |     |     |     |   |  _  |  +  |  {  |  }  | "|" |  ~   |
             //                    | GUI |     | SPC |   | ENT |     | ALT |
-
+            
+            display-name = "NAV";
             bindings = <
 &trans  &kp ESC           &kp HOME      &kp UP          &kp END           &kp PG_UP      &kp F7  &kp F8   &kp F9     &kp F10   &kp BACKSPACE  &trans
 &trans  &kp TAB           &kp LEFT      &kp DOWN        &kp RIGHT         &kp PG_DN      &kp F4  &kp F5   &kp F6     &macro_1  &kp DEL        &trans
