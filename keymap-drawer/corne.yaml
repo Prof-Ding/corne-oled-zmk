@@ -135,7 +135,7 @@ layers:
   - MUTE
   - VOL DN
   - VOL UP
-  - {t: ▽, type: trans}
+  - BRIGHTNESS INC
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -147,7 +147,7 @@ layers:
   - PREV
   - PLAY PAUSE
   - NEXT
-  - {t: ▽, type: trans}
+  - BRIGHTNESS DEC
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
