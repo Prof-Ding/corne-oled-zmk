@@ -80,7 +80,7 @@ layers:
   - '-'
   - ENTER
   - {t: ▽, type: trans}
-  - LEFT SHIFT
+  - LSHIFT
   - LCTRL
   - '&degree'
   - KP DOT
@@ -112,9 +112,9 @@ layers:
   - DEL
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LEFT CONTROL
+  - LCTRL
   - LEFT WIN
-  - LEFT ALT
+  - LALT
   - F11
   - F12
   - F1
@@ -123,8 +123,8 @@ layers:
   - '&macro_2'
   - ENTER
   - {t: ▽, type: trans}
-  - LEFT SHIFT
-  - LEFT CONTROL
+  - LSHIFT
+  - LCTRL
   - '&screenshot'
   - {type: held}
   - MED
