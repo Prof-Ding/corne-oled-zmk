@@ -106,8 +106,8 @@
         MED {
             display-name = "MED";
             bindings = <
-&trans  &trans  &kp K_MUTE  &kp C_VOL_DN      &kp C_VOL_UP  &kp C_BRIGHTNESS_INC    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &kp K_PREV  &kp K_PLAY_PAUSE  &kp K_NEXT    &kp C_BRIGHTNESS_DEC    &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &kp C_MUTE  &kp C_VOL_DN      &kp C_VOL_UP  &kp C_BRIGHTNESS_INC    &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &kp C_PREV  &kp C_PLAY_PAUSE  &kp C_NEXT    &kp C_BRIGHTNESS_DEC    &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans      &trans            &trans        &trans                  &trans  &trans  &trans  &trans  &trans  &trans
                             &trans            &trans        &trans                  &trans  &trans  &trans
             >;
