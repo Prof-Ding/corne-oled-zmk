@@ -1,0 +1,174 @@
+layout: {zmk_keyboard: corne_dvorak}
+layers:
+  ABC:
+  - {t: ▽, type: trans}
+  - ''''
+  - ','
+  - .
+  - P
+  - Y
+  - F
+  - G
+  - C
+  - R
+  - L
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - A
+  - O
+  - E
+  - U
+  - I
+  - D
+  - H
+  - T
+  - N
+  - S
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ;
+  - Q
+  - J
+  - K
+  - X
+  - B
+  - M
+  - W
+  - V
+  - Z
+  - {t: ▽, type: trans}
+  - LSHIFT
+  - LCTRL
+  - LALT
+  - NAV
+  - NUM
+  - SPACE
+  NUM:
+  - {t: ▽, type: trans}
+  - '!'
+  - '@'
+  - '#'
+  - $
+  - '%'
+  - KP 7
+  - KP 8
+  - KP 9
+  - \
+  - BACKSPACE
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ^
+  - '&'
+  - '*'
+  - (
+  - )
+  - KP 4
+  - KP 5
+  - KP 6
+  - /
+  - '='
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '`'
+  - '{'
+  - '}'
+  - '['
+  - ']'
+  - KP 1
+  - KP 2
+  - KP 3
+  - '-'
+  - ENTER
+  - {t: ▽, type: trans}
+  - LSHIFT
+  - LCTRL
+  - '&degree'
+  - KP DOT
+  - {type: held}
+  - KP 0
+  NAV:
+  - {t: ▽, type: trans}
+  - ESC
+  - HOME
+  - UP
+  - END
+  - PG UP
+  - F7
+  - F8
+  - F9
+  - F10
+  - BACKSPACE
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - TAB
+  - LEFT
+  - DOWN
+  - RIGHT
+  - PG DN
+  - F4
+  - F5
+  - F6
+  - '&macro_1'
+  - DEL
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - LCTRL
+  - LEFT WIN
+  - LALT
+  - F11
+  - F12
+  - F1
+  - F2
+  - F3
+  - '&macro_2'
+  - ENTER
+  - {t: ▽, type: trans}
+  - LSHIFT
+  - LCTRL
+  - '&screenshot'
+  - {type: held}
+  - MED
+  - SPACE
+  MED:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - MUTE
+  - VOL DN
+  - VOL UP
+  - BRIGHTNESS INC
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - PREV
+  - PLAY PAUSE
+  - NEXT
+  - BRIGHTNESS DEC
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - BT CLR
+  - {t: BT, h: '0'}
+  - {t: BT, h: '1'}
+  - {t: BT, h: '2'}
+  - {t: BT, h: '3'}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {type: held}
+  - {t: ▽, type: trans}
